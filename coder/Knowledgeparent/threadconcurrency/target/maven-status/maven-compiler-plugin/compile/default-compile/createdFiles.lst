@@ -1,6 +1,7 @@
 com\mercury\atomic\AtomicIntegerArrayExam.class
 com\mercury\atomic\AtomicReferenceExample.class
 com\mercury\executor\CompletionServiceExample.class
+com\mercury\lock\SimpleLockDemo$MyThread.class
 com\mercury\lock\UnsafeParkExam$1.class
 com\mercury\executor\ExecutorExample.class
 com\mercury\lock\UnsafeParkExam$2.class
@@ -22,6 +23,8 @@ com\mercury\atomic\AtomicIntegerFieldExample$1.class
 com\mercury\atomic\AtomicReferenceExample$1.class
 com\mercury\executor\CallableExample$1.class
 com\mercury\executor\ScheduledExecutorServiceExample$2.class
+com\mercury\lock\SimpleLockDemo.class
+com\mercury\lock\SimpleLockDemo$Sync.class
 com\mercury\lock\UnsafeParkExam.class
 com\mercury\atomic\AtomicReferenceExample$Element.class
 com\mercury\lock\UnsafeParkExam$3.class

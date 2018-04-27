@@ -14,74 +14,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="UsafeExample.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/threadconcurrency/src/main/java/com/mercury/atomic/UsafeExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2216#2217#0" expanded="true" />
-                <element signature="e#2239#2240#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AtomIntegerExample.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/threadconcurrency/src/main/java/com/mercury/atomic/AtomIntegerExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="16" column="12" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AtomicInteger.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_141/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="53" column="13" lean-forward="false" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AccessibleObject.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_141/src.zip!/java/lang/reflect/AccessibleObject.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="59" column="59" lean-forward="false" selection-start-line="59" selection-start-column="59" selection-end-line="59" selection-end-column="59" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AtomicReferenceExample.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/threadconcurrency/src/main/java/com/mercury/atomic/AtomicReferenceExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="74">
-              <caret line="24" column="18" lean-forward="false" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="AtomicIntegerFieldExample.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/threadconcurrency/src/main/java/com/mercury/atomic/AtomicIntegerFieldExample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="166">
-              <caret line="33" column="32" lean-forward="true" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1273#1274#0" expanded="true" />
-                <element signature="e#1334#1335#0" expanded="true" />
-              </folding>
+              <caret line="34" column="32" lean-forward="false" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReentrantLock.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_141/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="146">
+              <caret line="230" column="58" lean-forward="true" selection-start-line="230" selection-start-column="58" selection-end-line="230" selection-end-column="58" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -89,7 +37,7 @@
       <file leaf-file-name="AtomicIntegerArrayExam.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/threadconcurrency/src/main/java/com/mercury/atomic/AtomicIntegerArrayExam.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="103">
+            <state relative-caret-position="322">
               <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -98,39 +46,92 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UnsafeParkExam.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/threadconcurrency/src/main/java/com/mercury/lock/UnsafeParkExam.java">
+      <file leaf-file-name="AbstractQueuedSynchronizer.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_141/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="55" column="4" lean-forward="false" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="4" />
+            <state relative-caret-position="105">
+              <caret line="288" column="31" lean-forward="false" selection-start-line="288" selection-start-column="31" selection-end-line="288" selection-end-column="31" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#566#947#0" expanded="true" />
-                <element signature="e#946#947#0" expanded="true" />
-                <element signature="e#965#1327#0" expanded="true" />
-                <element signature="e#1326#1327#0" expanded="true" />
-                <element signature="e#1345#1753#0" expanded="true" />
-                <element signature="e#1752#1753#0" expanded="true" />
+                <element signature="e#22675#22676#0" expanded="true" />
+                <element signature="e#22703#22704#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AbstractQueuedSynchronizer.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_141/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
+      <file leaf-file-name="test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/threadconcurrency/src/main/java/com/mercury/test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-105">
-              <caret line="294" column="7" lean-forward="true" selection-start-line="294" selection-start-column="7" selection-end-line="294" selection-end-column="7" />
+            <state relative-caret-position="173">
+              <caret line="14" column="63" lean-forward="false" selection-start-line="14" selection-start-column="63" selection-end-line="14" selection-end-column="63" />
+              <folding>
+                <element signature="e#219#220#0" expanded="true" />
+                <element signature="e#287#288#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimpleLockDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/threadconcurrency/src/main/java/com/mercury/lock/SimpleLockDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="30" column="6" lean-forward="false" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#335#336#0" expanded="true" />
+                <element signature="e#360#361#0" expanded="true" />
+                <element signature="e#386#387#0" expanded="true" />
+                <element signature="e#411#412#0" expanded="true" />
+                <element signature="e#500#501#0" expanded="true" />
+                <element signature="e#521#522#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Thread.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_141/src.zip!/java/lang/Thread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="87">
+              <caret line="1814" column="17" lean-forward="false" selection-start-line="1814" selection-start-column="17" selection-end-line="1814" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AtomicIntegerFieldUpdater.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_141/src.zip!/java/util/concurrent/atomic/AtomicIntegerFieldUpdater.java">
+      <file leaf-file-name="AbstractQueuedLongSynchronizer.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_141/src.zip!/java/util/concurrent/locks/AbstractQueuedLongSynchronizer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="77">
-              <caret line="84" column="51" lean-forward="false" selection-start-line="84" selection-start-column="51" selection-end-line="84" selection-end-column="51" />
+            <state relative-caret-position="-39">
+              <caret line="310" column="26" lean-forward="false" selection-start-line="310" selection-start-column="26" selection-end-line="310" selection-end-column="26" />
+              <folding>
+                <element signature="e#12911#12912#0" expanded="true" />
+                <element signature="e#12943#12944#0" expanded="true" />
+                <element signature="e#31384#31385#0" expanded="true" />
+                <element signature="e#31441#31442#0" expanded="true" />
+                <element signature="e#32555#32556#0" expanded="true" />
+                <element signature="e#32612#32613#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UnsupportedOperationException.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_141/src.zip!/java/lang/UnsupportedOperationException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="41" column="11" lean-forward="false" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Mutex.class" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_141/jre/lib/rt.jar!/sun/awt/Mutex.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="61">
+              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -163,9 +164,11 @@
         <option value="$PROJECT_DIR$/threadconcurrency/src/main/java/com/mercury/atomic/UsafeExample.java" />
         <option value="$PROJECT_DIR$/threadconcurrency/src/main/java/com/mercury/atomic/AtomIntegerExample.java" />
         <option value="$PROJECT_DIR$/threadconcurrency/src/main/java/com/mercury/atomic/AtomicReferenceExample.java" />
-        <option value="$PROJECT_DIR$/threadconcurrency/src/main/java/com/mercury/atomic/AtomicIntegerFieldExample.java" />
         <option value="$PROJECT_DIR$/threadconcurrency/src/main/java/com/mercury/atomic/AtomicIntegerArrayExam.java" />
         <option value="$PROJECT_DIR$/threadconcurrency/src/main/java/com/mercury/lock/UnsafeParkExam.java" />
+        <option value="$PROJECT_DIR$/threadconcurrency/src/main/java/com/mercury/atomic/AtomicIntegerFieldExample.java" />
+        <option value="$PROJECT_DIR$/threadconcurrency/src/main/java/com/mercury/test.java" />
+        <option value="$PROJECT_DIR$/threadconcurrency/src/main/java/com/mercury/lock/SimpleLockDemo.java" />
       </list>
     </option>
   </component>
@@ -182,11 +185,11 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="2" />
-    <option name="y" value="75" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="72" />
+    <option name="y" value="1" />
     <option name="width" value="1364" />
-    <option name="height" value="685" />
+    <option name="height" value="788" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -203,6 +206,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -213,6 +219,17 @@
             <path>
               <item name="knowledgeparent" type="b2602c69:ProjectViewProjectNode" />
               <item name="Knowledgeparent" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="knowledgeparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Knowledgeparent" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="knowledgeparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Knowledgeparent" type="462c0819:PsiDirectoryNode" />
               <item name="threadconcurrency" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -253,16 +270,40 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="mercury" type="462c0819:PsiDirectoryNode" />
-              <item name="atomic" type="462c0819:PsiDirectoryNode" />
+              <item name="lock" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="knowledgeparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Knowledgeparent" type="462c0819:PsiDirectoryNode" />
+              <item name="threadconcurrency" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mercury" type="462c0819:PsiDirectoryNode" />
+              <item name="lock" type="462c0819:PsiDirectoryNode" />
+              <item name="UnsafeParkExam" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="knowledgeparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Knowledgeparent" type="462c0819:PsiDirectoryNode" />
+              <item name="threadconcurrency" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="knowledgeparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="knowledgeparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -284,32 +325,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Mvn.UnsafeParkExam.main">
-    <configuration name="AtomIntegerExample.main" type="mvnRunConfigurationType" factoryName="Mvn" temporary="true" runType="run_main">
-      <MavenSettings>
-        <option name="myGeneralSettings" />
-        <option name="myRunnerSettings" />
-        <option name="myRunnerParameters">
-          <MavenRunnerParameters>
-            <option name="profiles">
-              <set />
-            </option>
-            <option name="goals">
-              <list>
-                <option value="compile" />
-                <option value="exec:java" />
-                <option value="-Dexec.mainClass=com.mercury.atomic.AtomIntegerExample" />
-              </list>
-            </option>
-            <option name="profilesMap">
-              <map />
-            </option>
-            <option name="resolveToWorkspace" value="false" />
-            <option name="workingDirPath" value="$PROJECT_DIR$/threadconcurrency" />
-          </MavenRunnerParameters>
-        </option>
-      </MavenSettings>
-    </configuration>
+  <component name="RunManager" selected="Mvn.SimpleLockDemo.main">
     <configuration name="AtomicIntegerArrayExam.main" type="mvnRunConfigurationType" factoryName="Mvn" temporary="true" runType="run_main">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -360,7 +376,7 @@
         </option>
       </MavenSettings>
     </configuration>
-    <configuration name="AtomicReferenceExample.main" type="mvnRunConfigurationType" factoryName="Mvn" temporary="true" runType="run_main">
+    <configuration name="SimpleLockDemo.main" type="mvnRunConfigurationType" factoryName="Mvn" temporary="true" runType="run_main">
       <MavenSettings>
         <option name="myGeneralSettings" />
         <option name="myRunnerSettings" />
@@ -373,7 +389,7 @@
               <list>
                 <option value="compile" />
                 <option value="exec:java" />
-                <option value="-Dexec.mainClass=com.mercury.atomic.AtomicReferenceExample" />
+                <option value="-Dexec.mainClass=com.mercury.lock.SimpleLockDemo" />
               </list>
             </option>
             <option name="profilesMap">
@@ -491,20 +507,45 @@
       <properties />
       <listeners />
     </configuration>
+    <configuration name="test.main" type="mvnRunConfigurationType" factoryName="Mvn" temporary="true" runType="run_main">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="compile" />
+                <option value="exec:java" />
+                <option value="-Dexec.mainClass=com.mercury.test" />
+              </list>
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/threadconcurrency" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Mvn.AtomIntegerExample.main" />
-      <item index="1" class="java.lang.String" itemvalue="Mvn.AtomicReferenceExample.main" />
-      <item index="2" class="java.lang.String" itemvalue="Mvn.AtomicIntegerFieldExample.main" />
-      <item index="3" class="java.lang.String" itemvalue="Mvn.AtomicIntegerArrayExam.main" />
-      <item index="4" class="java.lang.String" itemvalue="Mvn.UnsafeParkExam.main" />
+      <item index="0" class="java.lang.String" itemvalue="Mvn.AtomicIntegerFieldExample.main" />
+      <item index="1" class="java.lang.String" itemvalue="Mvn.AtomicIntegerArrayExam.main" />
+      <item index="2" class="java.lang.String" itemvalue="Mvn.UnsafeParkExam.main" />
+      <item index="3" class="java.lang.String" itemvalue="Mvn.test.main" />
+      <item index="4" class="java.lang.String" itemvalue="Mvn.SimpleLockDemo.main" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Mvn.UnsafeParkExam.main" />
-        <item index="1" class="java.lang.String" itemvalue="Mvn.AtomicIntegerArrayExam.main" />
-        <item index="2" class="java.lang.String" itemvalue="Mvn.AtomicIntegerFieldExample.main" />
-        <item index="3" class="java.lang.String" itemvalue="Mvn.AtomicReferenceExample.main" />
-        <item index="4" class="java.lang.String" itemvalue="Mvn.AtomIntegerExample.main" />
+        <item index="0" class="java.lang.String" itemvalue="Mvn.SimpleLockDemo.main" />
+        <item index="1" class="java.lang.String" itemvalue="Mvn.test.main" />
+        <item index="2" class="java.lang.String" itemvalue="Mvn.UnsafeParkExam.main" />
+        <item index="3" class="java.lang.String" itemvalue="Mvn.AtomicIntegerArrayExam.main" />
+        <item index="4" class="java.lang.String" itemvalue="Mvn.AtomicIntegerFieldExample.main" />
       </list>
     </recent_temporary>
   </component>
@@ -525,14 +566,15 @@
       <updated>1524449278246</updated>
       <workItem from="1524449295203" duration="18178000" />
       <workItem from="1524530271680" duration="8321000" />
+      <workItem from="1524619135754" duration="10047000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26499000" />
+    <option name="totallyTimeSpent" value="36546000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
+    <frame x="72" y="1" width="1364" height="788" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -553,11 +595,11 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.55448717" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.50159234" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32643312" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Jenkins" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21785174" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21779141" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -579,26 +621,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/threadconcurrency/src/main/java/com/mercury/executor/CallableExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/threadconcurrency/src/main/java/com/mercury/atomic/UsafeExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2216#2217#0" expanded="true" />
-            <element signature="e#2239#2240#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_141/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1113">
@@ -619,7 +641,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5082">
           <caret line="242" column="6" lean-forward="true" selection-start-line="242" selection-start-column="6" selection-end-line="242" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -627,7 +648,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5439">
           <caret line="304" column="0" lean-forward="true" selection-start-line="304" selection-start-column="0" selection-end-line="304" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -635,7 +655,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1239">
           <caret line="96" column="0" lean-forward="true" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -643,10 +662,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3717">
           <caret line="177" column="26" lean-forward="false" selection-start-line="177" selection-start-column="26" selection-end-line="177" selection-end-column="26" />
-          <folding>
-            <element signature="e#114596#114597#0" expanded="false" />
-            <element signature="e#114678#114679#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -662,14 +677,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="1196" column="11" lean-forward="false" selection-start-line="1196" selection-start-column="11" selection-end-line="1196" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/threadconcurrency/src/main/java/com/mercury/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -804,7 +811,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="214" column="33" lean-forward="false" selection-start-line="214" selection-start-column="18" selection-end-line="214" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -865,10 +871,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2667">
           <caret line="177" column="26" lean-forward="false" selection-start-line="177" selection-start-column="26" selection-end-line="177" selection-end-column="26" />
-          <folding>
-            <element signature="e#114596#114597#0" expanded="false" />
-            <element signature="e#114678#114679#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -876,7 +878,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1239">
           <caret line="96" column="0" lean-forward="false" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -884,7 +885,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -892,7 +892,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4389">
           <caret line="242" column="6" lean-forward="false" selection-start-line="242" selection-start-column="6" selection-end-line="242" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -908,7 +907,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5439">
           <caret line="304" column="0" lean-forward="false" selection-start-line="304" selection-start-column="0" selection-end-line="304" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -917,9 +915,9 @@
         <state relative-caret-position="273">
           <caret line="16" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2216#2217#0" expanded="true" />
-            <element signature="e#2239#2240#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#2216#2217#0" expanded="false" />
+            <element signature="e#2239#2240#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -934,8 +932,26 @@
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_141/src.zip!/java/lang/reflect/AccessibleObject.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
+        <state relative-caret-position="693">
           <caret line="59" column="59" lean-forward="false" selection-start-line="59" selection-start-column="59" selection-end-line="59" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/threadconcurrency/src/main/java/com/mercury/atomic/AtomicReferenceExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="24" column="18" lean-forward="false" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_141/src.zip!/java/util/concurrent/atomic/AtomicIntegerFieldUpdater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="882">
+          <caret line="84" column="51" lean-forward="false" selection-start-line="84" selection-start-column="51" selection-end-line="84" selection-end-column="51" />
           <folding />
         </state>
       </provider>
@@ -945,44 +961,38 @@
         <state relative-caret-position="273">
           <caret line="16" column="12" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/threadconcurrency/src/main/java/com/mercury/atomic/AtomicReferenceExample.java">
+    <entry file="file://$PROJECT_DIR$/threadconcurrency/src/main/java/com/mercury/lock/UnsafeParkExam.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
-          <caret line="24" column="18" lean-forward="false" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+        <state relative-caret-position="245">
+          <caret line="58" column="9" lean-forward="true" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#566#947#0" expanded="false" />
+            <element signature="e#946#947#0" expanded="false" />
+            <element signature="e#965#1327#0" expanded="false" />
+            <element signature="e#1326#1327#0" expanded="false" />
+            <element signature="e#1345#1753#0" expanded="false" />
+            <element signature="e#1752#1753#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_141/src.zip!/java/util/concurrent/atomic/AtomicIntegerFieldUpdater.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="77">
-          <caret line="84" column="51" lean-forward="false" selection-start-line="84" selection-start-column="51" selection-end-line="84" selection-end-column="51" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/threadconcurrency/src/main/java/com/mercury/atomic/AtomicIntegerFieldExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="166">
-          <caret line="33" column="32" lean-forward="true" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1273#1274#0" expanded="true" />
-            <element signature="e#1334#1335#0" expanded="true" />
-          </folding>
+          <caret line="34" column="32" lean-forward="false" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/threadconcurrency/src/main/java/com/mercury/atomic/AtomicIntegerArrayExam.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
+        <state relative-caret-position="322">
           <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -992,24 +1002,85 @@
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_141/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-105">
-          <caret line="294" column="7" lean-forward="true" selection-start-line="294" selection-start-column="7" selection-end-line="294" selection-end-column="7" />
+        <state relative-caret-position="105">
+          <caret line="288" column="31" lean-forward="false" selection-start-line="288" selection-start-column="31" selection-end-line="288" selection-end-column="31" />
+          <folding>
+            <element signature="e#22675#22676#0" expanded="true" />
+            <element signature="e#22703#22704#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_141/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="230" column="58" lean-forward="true" selection-start-line="230" selection-start-column="58" selection-end-line="230" selection-end-column="58" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/threadconcurrency/src/main/java/com/mercury/lock/UnsafeParkExam.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_141/jre/lib/rt.jar!/sun/awt/Mutex.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="55" column="4" lean-forward="false" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="4" />
+        <state relative-caret-position="61">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/threadconcurrency/src/main/java/com/mercury/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="14" column="63" lean-forward="false" selection-start-line="14" selection-start-column="63" selection-end-line="14" selection-end-column="63" />
+          <folding>
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_141/src.zip!/java/lang/UnsupportedOperationException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="41" column="11" lean-forward="false" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_141/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="1814" column="17" lean-forward="false" selection-start-line="1814" selection-start-column="17" selection-end-line="1814" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_141/src.zip!/java/util/concurrent/locks/AbstractQueuedLongSynchronizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-39">
+          <caret line="310" column="26" lean-forward="false" selection-start-line="310" selection-start-column="26" selection-end-line="310" selection-end-column="26" />
+          <folding>
+            <element signature="e#12911#12912#0" expanded="true" />
+            <element signature="e#12943#12944#0" expanded="true" />
+            <element signature="e#31384#31385#0" expanded="true" />
+            <element signature="e#31441#31442#0" expanded="true" />
+            <element signature="e#32555#32556#0" expanded="true" />
+            <element signature="e#32612#32613#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/threadconcurrency/src/main/java/com/mercury/lock/SimpleLockDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="30" column="6" lean-forward="false" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#566#947#0" expanded="true" />
-            <element signature="e#946#947#0" expanded="true" />
-            <element signature="e#965#1327#0" expanded="true" />
-            <element signature="e#1326#1327#0" expanded="true" />
-            <element signature="e#1345#1753#0" expanded="true" />
-            <element signature="e#1752#1753#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#521#522#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -53,7 +53,6 @@ public class UnsafeParkExam {
         System.out.println(Thread.currentThread().getName() + " after park");
       }
     };
-    
     t1.start();
     t2.start();
     t3.start();
